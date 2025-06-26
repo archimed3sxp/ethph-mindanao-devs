@@ -21,7 +21,7 @@ Want to run this platform for your own city or community? Follow these steps:
 
 ### 1. **Fork the Repository**
 
-- Visit: [github.com/0xdanki/ethph-academy](https://github.com/0xdanki/ethph-academy)
+- Visit: [github.com/0xdanki/ethereum-community-developers](https://github.com/0xdanki/ethereum-community-developers)
 - Click "Fork"
 - Rename the repository (e.g., `ethph-ilocos-devs`)
   
