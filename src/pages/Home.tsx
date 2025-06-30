@@ -9,7 +9,7 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <section className="text-center py-12 px-4 sm:py-20">
         <h1 className="text-4xl sm:text-5xl font-bold text-solidity-900 dark:text-white mb-4">
-          <span className="text-ethereum-600">Davao</span> Ethereum Workshop
+          <span className="text-ethereum-600">ETH PH MINDANAO</span> Developer Track
         </h1>
         <p className="max-w-2xl mx-auto text-xl text-solidity-600 dark:text-gray-300 mb-8">
           Learn Solidity and Smart Contract Development. This tutorial is created by ETH PH to help Davaoenos to master blockchain programming with interactive tutorials, practical examples, and hands-on projects
